@@ -1,2 +1,2 @@
 # photography
-This is my formulas list (mine and those I use from others)
+This is my formulas and recipes list (mine and those I use from others)
