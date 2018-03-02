@@ -7,11 +7,11 @@ Theses formulas and devs times are for normal dev process:
 
 ## Existing Formulas
 
-### Ilford LC29 Formula
+### Devs
 
-#### Dev:
+#### Ilford LC29 Formula
 
-| Nom du film	| iso |	1+9	| 1+19 | 1+29 |
+| Film name | iso |	1+9	| 1+19 | 1+29 |
 |---|---|---|---|---|
 | Ilford PAN F+ |	50 | – | 4 | 5:30 |
 | Ilford FP4+ | 50 | –	| 6	| 8 |
@@ -34,9 +34,15 @@ Theses formulas and devs times are for normal dev process:
 | Ilford DELTA 3200	| 3200 | 8 | 14:30 | – |
 | Ilford DELTA 3200	| 6400 | 13 | – | – |
 
-#### Stop
+#### Rodinal/Fomadon
+
+| Film name	| iso | dilution | time (minutes) |
+|---|---|---|---|
+| Ilford DELTA 400 | 1600 | 1 + 16 | 20 |
+
+### Stop
   * Water + 2ml lemon juice
 
-#### Fix
+### Fix
 
  * Ilford Rapid fixer 1+4: between 10 and 15 minutes.
