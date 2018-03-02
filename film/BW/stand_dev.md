@@ -11,6 +11,8 @@ Theses formulas and devs times are for Stand dev process:
 
 #### Dev:
 
+##### Ilford film
+
 | film | format | exposé a x iso | révelateur et dilution | temps de développement |
 |---|---|---|---|---|
 | Ilford PAN F+ | 120 | 50 | Fomadon R09 new a 1+100 | 60 minutes |
@@ -18,6 +20,12 @@ Theses formulas and devs times are for Stand dev process:
 | Ilford HP5+ | 120 | 400 | Fomadon R09 new a 1+100 | 60 minutes |
 | Ilford PAN 400 | 135 | 400 | Fomadon R09 new a 1+100 | 60 minutes |
 | Ilford Delta 3200 Pro | 120 | 6400 | Fomadon R09 new a 1+100 | 90 minutes |
+
+##### Other
+
+| film | format | exposé a x iso | révelateur et dilution | temps de développement |
+|---|---|---|---|---|
+| Cinestill BWXX | 135 | 400 | Fomadon R09 new a 1+100 | 60 minutes |
 
 #### Stop
 
