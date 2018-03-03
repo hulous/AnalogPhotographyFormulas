@@ -7,17 +7,23 @@ Theses formulas and devs times are for Stand dev process:
 
 ## Existing Formulas
 
-### Rodinal/Fomadon Formula
-
 #### Dev:
 
-| film | format | exposé a x iso | révelateur et dilution | temps de développement |
+#### Ilford film with rodinal/fomadon
+
+| film | type | iso used | dilution | time |
 |---|---|---|---|---|
-| Ilford PAN F+ | 120 | 50 | Fomadon R09 new a 1+100 | 60 minutes |
-| Ilford FP4+ | 120 | 100 | Fomadon R09 new a 1+100 | 60 minutes |
-| Ilford HP5+ | 120 | 400 | Fomadon R09 new a 1+100 | 60 minutes |
-| Ilford PAN 400 | 135 | 400 | Fomadon R09 new a 1+100 | 60 minutes |
-| Ilford Delta 3200 Pro | 120 | 6400 | Fomadon R09 new a 1+100 | 90 minutes |
+| Ilford PAN F+ | 120 | 50 | 1 + 100 | 60 mins |
+| Ilford FP4+ | 120 | 100 | 1 + 100 | 60 mins |
+| Ilford HP5+ | 120 | 400 | 1 + 100 | 60 mins |
+| Ilford PAN 400 | 135 | 400 | 1 + 100 | 60 mins |
+| Ilford Delta 3200 Pro | 120 | 6400 | 1 + 100 | 90 mins |
+
+##### Other film with rodinal/fomadon
+
+| film | type | iso used | dilution | time |
+|---|---|---|---|---|
+| Cinestill BWXX | 135 | 400 | 1 + 100 | 60 mins |
 
 #### Stop
 
