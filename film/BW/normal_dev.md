@@ -41,7 +41,7 @@ Theses formulas and devs times are for normal dev process:
 | Ilford DELTA 400 | 1600 | 1 + 16 | 20 |
 
 ### Stop
-  * Water + 2ml lemon juice
+  * Water + 2ml lemon juice: more or less 10 secondes
 
 ### Fix
 
