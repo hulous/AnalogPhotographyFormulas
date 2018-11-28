@@ -41,8 +41,7 @@ Theses formulas and devs times are for normal dev process:
 | Ilford DELTA 400 | 1600 | 1 + 16 | 20 |
 
 ### Stop
-  * Water + 2ml lemon juice: more or less 10 secondes
+  * Water + 2ml lemon juice: more or less 10 to 30 secondes
 
 ### Fix
-
- * Ilford Rapid fixer 1+4: between 10 and 15 minutes.
+  * Ilford Rapid fixer 1+4: between 10 and 15 minutes.

@@ -27,7 +27,7 @@ Theses formulas and devs times are for Stand dev process:
 
 #### Stop
 
- * Water + 2ml lemon juice: more or less 10 secondes.
+ * Water + 2ml lemon juice: more or less 10 to 30 secondes.
 
 #### Fix
 
