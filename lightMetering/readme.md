@@ -16,4 +16,4 @@ Some have an internal mesure system.
 ## Your Eyes and exposures tables.
 
  * Use your eyes and the [exposure values](exposure_value.md) table to find the current EV (Exposure Value).
- * Use the [exposure setting](exposure_setting.md) table to find your ideal exposure setting. ;-)
+ * Use the [exposure setting](exposure_setting_from_exposure_value.md) table to find your ideal exposure setting. ;-)
