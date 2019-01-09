@@ -16,7 +16,7 @@ This is my formulas and recipes list (mine and those I use from others)
 ## Paper
 
 ### Black & White
- * RC
+ * [RC](paper/BW/RC.md)
  * FB
 
 ### Color
