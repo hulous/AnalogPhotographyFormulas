@@ -30,6 +30,8 @@ Developper formula dilution:
 | film | type | iso used | dilution | time |
 |---|---|---|---|---|
 | Cinestill BWXX | 135 | 400 | 1 + 100 | 60 mins |
+| Foma Fomapan action 400 | 135 | 400 | 1 + 100 | 60 mins |
+| Foma Fomapan action 400 | 120 | 400 | 1 + 100 | 60 mins |
 
 #### Stop
 
