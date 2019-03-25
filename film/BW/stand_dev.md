@@ -9,6 +9,12 @@ Theses formulas and devs times are for Stand dev process:
 
 #### Dev:
 
+##### rodinal/fomadon
+
+Developper formula dilution:
+ - 10ml Fomadon R09
+ - Water to get 1 liter formula
+
 #### Ilford film with rodinal/fomadon
 
 | film | type | iso used | dilution | time |
@@ -24,6 +30,8 @@ Theses formulas and devs times are for Stand dev process:
 | film | type | iso used | dilution | time |
 |---|---|---|---|---|
 | Cinestill BWXX | 135 | 400 | 1 + 100 | 60 mins |
+| Foma Fomapan action 400 | 135 | 400 | 1 + 100 | 60 mins |
+| Foma Fomapan action 400 | 120 | 400 | 1 + 100 | 60 mins |
 
 #### Stop
 
