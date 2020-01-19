@@ -40,3 +40,10 @@ Developper formula dilution:
 #### Fix
 
  * Ilford Rapid fixer 1+4: between 15 and 30 minutes.
+
+#### Wash
+
+ * I use ilford washing technique : 
+   * Fill tank and give 5 inversions, let 10 sec, dump
+   * Fill tank and give 10 inversions, let 10 sec, dump
+   * Fill tank and give 20 inversions, let 10 sec, dump

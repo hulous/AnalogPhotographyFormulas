@@ -45,3 +45,11 @@ Theses formulas and devs times are for normal dev process:
 
 ### Fix
   * Ilford Rapid fixer 1+4: between 10 and 15 minutes.
+
+
+#### Wash
+
+ * I use ilford washing technique : 
+   * Fill tank and give 5 inversions, let 10 sec, dump
+   * Fill tank and give 10 inversions, let 10 sec, dump
+   * Fill tank and give 20 inversions, let 10 sec, dump
