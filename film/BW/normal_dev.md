@@ -44,4 +44,12 @@ Theses formulas and devs times are for normal dev process:
   * Water + 2ml lemon juice: more or less 10 to 30 secondes
 
 ### Fix
-  * Ilford Rapid fixer 1+4: between 10 and 15 minutes.
+  * Ilford Rapid fixer 1+4: not less than 5 and no more than 15 minutes.
+
+
+#### Wash
+
+ * I use ilford washing technique : 
+   * Fill tank and give 5 inversions, let 10 sec, dump
+   * Fill tank and give 10 inversions, let 10 sec, dump
+   * Fill tank and give 20 inversions, let 10 sec, dump
