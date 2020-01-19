@@ -39,7 +39,7 @@ Developper formula dilution:
 
 #### Fix
 
- * Ilford Rapid fixer 1+4: between 15 and 30 minutes.
+ * Ilford Rapid fixer 1+4: more or less 10 minutes and no more than 30 minutes.
 
 #### Wash
 
