@@ -2,6 +2,10 @@
 
 This is my formulas and recipes list (mine and those I use from others)
 
+## About Light metering
+ * [Light Metering](light_metering/light_metering.md)
+ * Zone System
+
 ## Film
 
 ### Black & White
