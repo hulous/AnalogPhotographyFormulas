@@ -7,7 +7,7 @@ This is my formulas and recipes list (mine and those I use from others)
 ### Black & White
  * [Normal](film/BW/normal_dev.md)
  * [Stand Dev](film/BW/stand_dev.md)
- * Continous Rotation
+ * [Continous Rotation](film/BW/continous_rotation_dev.md)
 
 ### Color
  * C41
