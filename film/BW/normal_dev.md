@@ -2,7 +2,7 @@
 
 Theses formulas and devs times are for normal dev process:
   - Continious agitation first 30 sec
-  - 20 flip/flop each minutes
+  - 10 flip/flop each minutes (each move take more or less 2s. _not so fast, not so slow_)
   - temp is +/- 20°C
 
 ## Existing Formulas
@@ -57,3 +57,5 @@ Theses formulas and devs times are for normal dev process:
    * Fill tank and give 5 inversions, let 10 sec, dump
    * Fill tank and give 10 inversions, let 10 sec, dump
    * Fill tank and give 20 inversions, let 10 sec, dump
+
+This technic is sometimes described as _Ilford way of washing_.
