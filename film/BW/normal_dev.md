@@ -39,6 +39,10 @@ Theses formulas and devs times are for normal dev process:
 | Film name	| iso | dilution | time (minutes) |
 |---|---|---|---|
 | Ilford DELTA 400 | 1600 | 1 + 16 | 20 |
+| Fomapan 400 | 800 | 1 + 25 | 10 |
+| Fomapan 400 | 800 | 1 + 50 | 19 |
+| Ilford HP5+ | 100 | 1 + 25 | 6 |
+| Ilford HP5+ | 100 | 1 + 50 | 9 |
 
 ### Stop
   * Water + 2ml lemon juice: more or less 10 to 30 secondes
