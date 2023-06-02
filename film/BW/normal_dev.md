@@ -43,13 +43,22 @@ Theses formulas and devs times are for normal dev process:
 
 #### Rodinal/Fomadon
 
-| Film name	| iso | dilution | time (minutes) |
-|---|---|---|---|
-| Ilford DELTA 400 | 1600 | 1 + 16 | 20 |
-| Fomapan 400 | 800 | 1 + 25 | 10 |
-| Fomapan 400 | 800 | 1 + 50 | 19 |
-| Ilford HP5+ | 100 | 1 + 25 | 6 |
-| Ilford HP5+ | 100 | 1 + 50 | 9 |
+| Film name | iso |	1+25 | 1+50 | 1+100 | 1+200 |
+|---|---|---|---|---|---|
+| Fomapan 100 | 50 | - | - | 7 | - |
+| Fomapan 100 | 100 | 4 | 8.5 | 18 | 30 |
+| Fomapan 100 | 200 | - | 12 | - | - |
+| Fomapan 100 | 400 | 6.5 | 21.5 | 26 | - |
+| Fomapan 100 | 800 | 12 | 23 | - | - |
+| Fomapan 400 | 100 | - | 7 | - | - |
+| Fomapan 400 | 200 | - | 11 | - | - |
+| Fomapan 400 | 400 | 5.5 | 11 | 30 | - |
+| Fomapan 400 | 800 | 10 | 19 | - | - |
+| Fomapan 400 | 1600 | 20 | 24 | - | - |
+| Fomapan 400 | 3200 | 25 | 52 | - | - |
+| Ilford FP4+ | 100 | 9 | - | - | - |
+| Ilford HP5+ | 400 | 6 | - | - | - |
+| Rollei RPX 25 | 25 | - | 11 | - | - |
 
 ### Stop
   * Water + 2ml lemon juice: more or less 10 to 30 secondes
