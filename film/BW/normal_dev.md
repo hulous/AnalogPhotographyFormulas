@@ -60,6 +60,18 @@ Theses formulas and devs times are for normal dev process:
 | Ilford HP5+ | 400 | 6 | - | - | - |
 | Rollei RPX 25 | 25 | - | 11 | - | - |
 
+#### Tetenal Paranol S
+
+| Film name | iso |	1+25 | 1+50 | 1+100 | 1+200 |
+|---|---|---|---|---|---|
+| Ilford FP4+ | 100 | 11 | 30 | - | - |
+| Ilford HP5+ | 400 | 11 | 25 | - | - |
+| Ilford HP5+ | 800 | 14 | - | - | - |
+| Fomapan 100 | 100 | 4 | 10 | - | - |
+| Fomapan 400 | 400 | 7 | 15 | - | - |
+| Kentmere 100 | 100 | 11 | 27 | - | - |
+| Kentmere 400 | 400 | 14 | 35 | - | - |
+
 ### Stop
   * Water + 2ml lemon juice: more or less 10 to 30 secondes
 
