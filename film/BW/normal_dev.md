@@ -34,6 +34,13 @@ Theses formulas and devs times are for normal dev process:
 | Ilford DELTA 3200	| 3200 | 8 | 14:30 | – |
 | Ilford DELTA 3200	| 6400 | 13 | – | – |
 
+#### Ilford Ilfosol 3
+| Film name | iso |	1+9	| 1+14 | 1+19 | 1+29 |
+|---|---|---|---|---|---|
+| Ilford FP4+ | 100 | 4.25	| 7.5 | -	| - |
+| Ilford HP5+	| 100 | 4.5	| - | - | - |
+| Ilford HP5+	| 400 | 6.5	| - | - | – |
+
 #### Rodinal/Fomadon
 
 | Film name	| iso | dilution | time (minutes) |
