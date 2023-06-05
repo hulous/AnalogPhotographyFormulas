@@ -35,6 +35,7 @@ Theses formulas and devs times are for normal dev process:
 | Ilford PAN 400 | 3200 | 11 | – | – |
 
 #### Ilford Ilfosol 3
+
 | Film name | iso |	1+9	| 1+14 | 1+19 | 1+29 |
 |---|---|---|---|---|---|
 | Ilford FP4+ | 100 | 4.25	| 7.5 | -	| - |
@@ -71,7 +72,7 @@ Theses formulas and devs times are for normal dev process:
 | Fomapan 400 | 400 | 7 | 15 | - | - |
 | Kentmere 100 | 100 | 11 | 27 | - | - |
 | Kentmere 400 | 400 | 14 | 35 | - | - |
->>>>>>> master
+
 
 ### Stop
   * Water + 2ml lemon juice: more or less 10 to 30 secondes
