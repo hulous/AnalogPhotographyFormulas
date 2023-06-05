@@ -34,15 +34,43 @@ Theses formulas and devs times are for normal dev process:
 | Ilford DELTA 3200	| 3200 | 8 | 14:30 | – |
 | Ilford DELTA 3200	| 6400 | 13 | – | – |
 
+#### Ilford Ilfosol 3
+| Film name | iso |	1+9	| 1+14 | 1+19 | 1+29 |
+|---|---|---|---|---|---|
+| Ilford FP4+ | 100 | 4.25	| 7.5 | -	| - |
+| Ilford HP5+	| 100 | 4.5	| - | - | - |
+| Ilford HP5+	| 400 | 6.5	| - | - | – |
+
 #### Rodinal/Fomadon
 
-| Film name	| iso | dilution | time (minutes) |
-|---|---|---|---|
-| Ilford DELTA 400 | 1600 | 1 + 16 | 20 |
-| Fomapan 400 | 800 | 1 + 25 | 10 |
-| Fomapan 400 | 800 | 1 + 50 | 19 |
-| Ilford HP5+ | 100 | 1 + 25 | 6 |
-| Ilford HP5+ | 100 | 1 + 50 | 9 |
+| Film name | iso |	1+25 | 1+50 | 1+100 | 1+200 |
+|---|---|---|---|---|---|
+| Fomapan 100 | 50 | - | - | 7 | - |
+| Fomapan 100 | 100 | 4 | 8.5 | 18 | 30 |
+| Fomapan 100 | 200 | - | 12 | - | - |
+| Fomapan 100 | 400 | 6.5 | 21.5 | 26 | - |
+| Fomapan 100 | 800 | 12 | 23 | - | - |
+| Fomapan 400 | 100 | - | 7 | - | - |
+| Fomapan 400 | 200 | - | 11 | - | - |
+| Fomapan 400 | 400 | 5.5 | 11 | 30 | - |
+| Fomapan 400 | 800 | 10 | 19 | - | - |
+| Fomapan 400 | 1600 | 20 | 24 | - | - |
+| Fomapan 400 | 3200 | 25 | 52 | - | - |
+| Ilford FP4+ | 100 | 9 | - | - | - |
+| Ilford HP5+ | 400 | 6 | - | - | - |
+| Rollei RPX 25 | 25 | - | 11 | - | - |
+
+#### Tetenal Paranol S
+
+| Film name | iso |	1+25 | 1+50 | 1+100 | 1+200 |
+|---|---|---|---|---|---|
+| Ilford FP4+ | 100 | 11 | 30 | - | - |
+| Ilford HP5+ | 400 | 11 | 25 | - | - |
+| Ilford HP5+ | 800 | 14 | - | - | - |
+| Fomapan 100 | 100 | 4 | 10 | - | - |
+| Fomapan 400 | 400 | 7 | 15 | - | - |
+| Kentmere 100 | 100 | 11 | 27 | - | - |
+| Kentmere 400 | 400 | 14 | 35 | - | - |
 
 ### Stop
   * Water + 2ml lemon juice: more or less 10 to 30 secondes
