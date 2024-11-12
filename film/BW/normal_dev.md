@@ -75,7 +75,7 @@ Theses formulas and devs times are for normal dev process:
 
 
 ### Stop
-  * Water + 2ml lemon juice: more or less 10 to 30 secondes
+  * Water: more or less 10 to 30 secondes
 
 ### Fix
   * Ilford Rapid fixer 1+4: not less than 5 and no more than 15 minutes.

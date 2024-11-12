@@ -56,7 +56,7 @@ Developper formula dilution:
 
 #### Stop
 
- * Water + 2ml lemon juice: more or less 10 to 30 secondes.
+ * Water: more or less 10 to 30 secondes.
 
 #### Fix
 
