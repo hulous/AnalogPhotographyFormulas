@@ -5,7 +5,7 @@
   * Dev:
     * Tetenal eukobrom : 1+9 @ 20° (manual deals about 60 to 90 seconds as dev time)
     * Ilford PQ : 1+9 @ 20° (manual deals about 60 seconds as dev time)
-  * Water + 2ml lemon juice
+  * Water
   * Fix: same as film.
 
   * Notes about quantities : 1 liter for format less than 24x30 is ok... 2 liter for 24x30 better
